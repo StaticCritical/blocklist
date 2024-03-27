@@ -9,3 +9,5 @@ https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://iplists.firehol.org/files/urlvir.ipset
+https://www.talosintelligence.com/documents/ip-blacklist
+https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-exit-nodes.lst
