@@ -13,7 +13,7 @@ https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://iplists.firehol.org/files/urlvir.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
 https://iplists.firehol.org/files/normshield_high_attack.ipset
-https://iplists.firehol.org/files/et_tor.ipset
+#https://iplists.firehol.org/files/et_tor.ipset
 https://www.talosintelligence.com/documents/ip-blacklist
 https://raw.githubusercontent.com/SecOps-Institute/Tor-IP-Addresses/master/tor-exit-nodes.lst
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/2.txt
@@ -23,5 +23,5 @@ https://iplists.firehol.org/files/ciarmy.ipset
 https://iplists.firehol.org/files/greensnow.ipset
 https://iplists.firehol.org/files/bruteforceblocker.ipset
 https://iplists.firehol.org/files/firehol_abusers_1d.netset
-https://iplists.firehol.org/files/tor_exits_7d.ipset
+#https://iplists.firehol.org/files/tor_exits_7d.ipset
 https://iplists.firehol.org/files/et_dshield.netset
